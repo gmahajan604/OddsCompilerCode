@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CB447A39-E371-4B83-B673-3C56B1846193}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OddsCheckerCrawler</RootNamespace>
+    <AssemblyName>OddsCheckerCrawler</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CodersLab.Windows.Controls.TreeView">
+      <HintPath>..\..\..\..\Downloads\New folder\New folder\multi-select-TreeView\bin\CodersLab.Windows.Controls.TreeView.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>E:\OddsCompiler\HtmlAgilityPack.1.4.6\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddMarket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMarket.Designer.cs">
+      <DependentUpon>AddMarket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BettingMarkets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BettingMarkets.Designer.cs">
+      <DependentUpon>BettingMarkets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChampLeagueResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChampLeagueResult.Designer.cs">
+      <DependentUpon>ChampLeagueResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CouponManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CouponManage.Designer.cs">
+      <DependentUpon>CouponManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Coupons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coupons.Designer.cs">
+      <DependentUpon>Coupons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GolfCrawler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GolfCrawler.Designer.cs">
+      <DependentUpon>GolfCrawler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarketOdds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarketOdds.Designer.cs">
+      <DependentUpon>MarketOdds.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MatchesSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MatchesSchedule.Designer.cs">
+      <DependentUpon>MatchesSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OddsCheckerCrawler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OddsCheckerCrawler.Designer.cs">
+      <DependentUpon>OddsCheckerCrawler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OddsCrawler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OddsCrawler.Designer.cs">
+      <DependentUpon>OddsCrawler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResultView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultView.Designer.cs">
+      <DependentUpon>ResultView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaveCoupon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveCoupon.Designer.cs">
+      <DependentUpon>SaveCoupon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePrice.Designer.cs">
+      <DependentUpon>UpdatePrice.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddMarket.resx">
+      <DependentUpon>AddMarket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BettingMarkets.resx">
+      <DependentUpon>BettingMarkets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChampLeagueResult.resx">
+      <DependentUpon>ChampLeagueResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CouponManage.resx">
+      <DependentUpon>CouponManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coupons.resx">
+      <DependentUpon>Coupons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GolfCrawler.resx">
+      <DependentUpon>GolfCrawler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarketOdds.resx">
+      <DependentUpon>MarketOdds.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MatchesSchedule.resx">
+      <DependentUpon>MatchesSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OddsCheckerCrawler.resx">
+      <DependentUpon>OddsCheckerCrawler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OddsCrawler.resx">
+      <DependentUpon>OddsCrawler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ResultView.resx">
+      <DependentUpon>ResultView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveCoupon.resx">
+      <DependentUpon>SaveCoupon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePrice.resx">
+      <DependentUpon>UpdatePrice.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BackCrawler\BackCrawler.csproj">
+      <Project>{87b3de75-8f5c-40a9-9691-ab49b0a3c2b0}</Project>
+      <Name>BackCrawler</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OddsBusiness\OddsBusiness.csproj">
+      <Project>{47480577-3d84-4584-8298-fdf5ce35ae08}</Project>
+      <Name>OddsBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OddsProperties\OddsProperties.csproj">
+      <Project>{e76bbd2d-ff42-4938-8a07-a20da7282c97}</Project>
+      <Name>OddsProperties</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

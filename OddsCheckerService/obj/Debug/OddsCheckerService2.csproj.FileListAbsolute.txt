@@ -1,0 +1,13 @@
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsBusiness.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsData.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsProperties.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\HtmlAgilityPack.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsBusiness.pdb
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsData.pdb
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsProperties.pdb
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\obj\Debug\OddsCheckerService2.csprojResolveAssemblyReference.cache
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\obj\Debug\OddsCheckerService.OddsCheckerService.resources
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\obj\Debug\OddsCheckerService.ProjectInstaller.resources
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\obj\Debug\OddsCheckerService2.csproj.GenerateResource.Cache
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\obj\Debug\OddsCheckerService.exe
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\obj\Debug\OddsCheckerService.pdb

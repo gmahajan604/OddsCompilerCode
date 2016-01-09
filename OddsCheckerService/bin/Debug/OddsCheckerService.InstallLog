@@ -1,0 +1,371 @@
+﻿Installing assembly 'C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Service OddsCheckerService has been successfully installed.
+Creating EventLog source OddsCheckerService in log Application...
+Committing assembly 'C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing assembly 'C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Uninstalling assembly 'C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Removing EventLog source OddsCheckerService.
+Service OddsCheckerService is being removed from the system...
+Service OddsCheckerService was successfully removed from the system.
+Installing assembly 'C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Service OddsCheckerService has been successfully installed.
+Creating EventLog source OddsCheckerService in log Application...
+Committing assembly 'C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Uninstalling assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Removing EventLog source OddsCheckerService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Removing EventLog source OddsCheckerService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Service OddsCheckerService has been successfully installed.
+Creating EventLog source OddsCheckerService in log Application...
+Committing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Uninstalling assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Removing EventLog source OddsCheckerService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Uninstalling assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Removing EventLog source OddsCheckerService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Installing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Service OddsCheckerService has been successfully installed.
+Creating EventLog source OddsCheckerService in log Application...
+Committing assembly 'C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing assembly 'E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Uninstalling assembly 'E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Removing EventLog source OddsCheckerService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Removing EventLog source OddsCheckerService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Service OddsCheckerService has been successfully installed.
+Creating EventLog source OddsCheckerService in log Application...
+Committing assembly 'D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing assembly 'D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Service OddsCheckerService has been successfully installed.
+Creating EventLog source OddsCheckerService in log Application...
+Committing assembly 'D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Uninstalling assembly 'D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Removing EventLog source OddsCheckerService.
+Service OddsCheckerService is being removed from the system...
+Service OddsCheckerService was successfully removed from the system.
+Installing assembly 'D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Service OddsCheckerService has been successfully installed.
+Creating EventLog source OddsCheckerService in log Application...
+Committing assembly 'D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Uninstalling assembly 'D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Removing EventLog source OddsCheckerService.
+Warning: The source OddsCheckerService is not registered on the local machine.
+Service OddsCheckerService is being removed from the system...
+Service OddsCheckerService was successfully removed from the system.
+Installing assembly 'D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Installing assembly 'D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Creating EventLog source OddsCheckerService in log Application...
+Rolling back assembly 'D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Restoring event log to previous state for source OddsCheckerService.
+Installing assembly 'D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe
+Installing service OddsCheckerService...
+Service OddsCheckerService has been successfully installed.
+Creating EventLog source OddsCheckerService in log Application...
+Committing assembly 'D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.InstallLog
+   assemblypath = D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCheckerService\bin\Debug\OddsCheckerService.exe

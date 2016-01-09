@@ -1,0 +1,30 @@
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsCrawlerServices.exe.config
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsCrawlerServices.exe
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsCrawlerServices.pdb
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsBusiness.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsData.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsProperties.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\HtmlAgilityPack.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsBusiness.pdb
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsData.pdb
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsProperties.pdb
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.csprojResolveAssemblyReference.cache
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.ProjectInstaller.resources
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.csproj.GenerateResource.Cache
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.exe
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.pdb
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsCrawlerServices.exe.config
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsCrawlerServices.exe
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsCrawlerServices.pdb
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsBusiness.dll
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsData.dll
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsProperties.dll
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\HtmlAgilityPack.dll
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsBusiness.pdb
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsData.pdb
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\bin\Debug\OddsProperties.pdb
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.csprojResolveAssemblyReference.cache
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.ProjectInstaller.resources
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.csproj.GenerateResource.Cache
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.exe
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsCrawlerServices\obj\Debug\OddsCrawlerServices.pdb

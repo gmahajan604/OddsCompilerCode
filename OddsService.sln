@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddsBusiness", "OddsBusiness\OddsBusiness.csproj", "{47480577-3D84-4584-8298-FDF5CE35AE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddsCheckerCrawler", "OddsCheckerCrawler\OddsCheckerCrawler.csproj", "{CB447A39-E371-4B83-B673-3C56B1846193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddsProperties", "OddsProperties\OddsProperties.csproj", "{E76BBD2D-FF42-4938-8A07-A20DA7282C97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddsData", "OddsData\OddsData.csproj", "{3F5E3E71-B79A-4F58-A500-B58D7BFE8F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddsCheckerService", "OddsCheckerService\OddsCheckerService.csproj", "{F179CD8F-E24D-4A4F-973D-7024582069A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackCrawler", "BackCrawler\BackCrawler.csproj", "{87B3DE75-8F5C-40A9-9691-AB49B0A3C2B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47480577-3D84-4584-8298-FDF5CE35AE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47480577-3D84-4584-8298-FDF5CE35AE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47480577-3D84-4584-8298-FDF5CE35AE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47480577-3D84-4584-8298-FDF5CE35AE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB447A39-E371-4B83-B673-3C56B1846193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB447A39-E371-4B83-B673-3C56B1846193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB447A39-E371-4B83-B673-3C56B1846193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB447A39-E371-4B83-B673-3C56B1846193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76BBD2D-FF42-4938-8A07-A20DA7282C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76BBD2D-FF42-4938-8A07-A20DA7282C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76BBD2D-FF42-4938-8A07-A20DA7282C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76BBD2D-FF42-4938-8A07-A20DA7282C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5E3E71-B79A-4F58-A500-B58D7BFE8F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5E3E71-B79A-4F58-A500-B58D7BFE8F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5E3E71-B79A-4F58-A500-B58D7BFE8F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5E3E71-B79A-4F58-A500-B58D7BFE8F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F179CD8F-E24D-4A4F-973D-7024582069A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F179CD8F-E24D-4A4F-973D-7024582069A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F179CD8F-E24D-4A4F-973D-7024582069A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F179CD8F-E24D-4A4F-973D-7024582069A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B3DE75-8F5C-40A9-9691-AB49B0A3C2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B3DE75-8F5C-40A9-9691-AB49B0A3C2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B3DE75-8F5C-40A9-9691-AB49B0A3C2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B3DE75-8F5C-40A9-9691-AB49B0A3C2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

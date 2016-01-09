@@ -1,0 +1,37 @@
+C:\Users\shriraj\Desktop\WindowsService1\OddsProperties\bin\Debug\OddsProperties.dll
+C:\Users\shriraj\Desktop\WindowsService1\OddsProperties\bin\Debug\OddsProperties.pdb
+C:\Users\shriraj\Desktop\WindowsService1\OddsProperties\obj\Debug\OddsProperties.csprojResolveAssemblyReference.cache
+C:\Users\shriraj\Desktop\WindowsService1\OddsProperties\obj\Debug\OddsProperties.dll
+C:\Users\shriraj\Desktop\WindowsService1\OddsProperties\obj\Debug\OddsProperties.pdb
+E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.dll
+E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.pdb
+E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.dll
+E:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.pdb
+C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.dll
+C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.pdb
+C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.dll
+C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.pdb
+C:\Users\shriraj\Desktop\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.csprojResolveAssemblyReference.cache
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.pdb
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.dll
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.pdb
+D:\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.dll
+D:\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.pdb
+D:\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.csprojResolveAssemblyReference.cache
+D:\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.dll
+D:\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.pdb
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.dll
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.pdb
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.dll
+D:\OddsCompilers\a-SourceCode\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.pdb
+D:\OddsCompiler\a-Source Code\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.csprojResolveAssemblyReference.cache
+D:\Project Data\OddsCompiler\a-SourceCode\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.dll
+D:\Project Data\OddsCompiler\a-SourceCode\OddsCompiler\WindowsService1\OddsProperties\bin\Debug\OddsProperties.pdb
+D:\Project Data\OddsCompiler\a-SourceCode\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.dll
+D:\Project Data\OddsCompiler\a-SourceCode\OddsCompiler\WindowsService1\OddsProperties\obj\Debug\OddsProperties.pdb
+E:\Project Current\OddsCompiler\a-SourceCode\OddsCompiler\OddsProperties\bin\Debug\OddsProperties.dll
+E:\Project Current\OddsCompiler\a-SourceCode\OddsCompiler\OddsProperties\bin\Debug\OddsProperties.pdb
+E:\Project Current\OddsCompiler\a-SourceCode\OddsCompiler\OddsProperties\obj\Debug\OddsProperties.csprojResolveAssemblyReference.cache
+E:\Project Current\OddsCompiler\a-SourceCode\OddsCompiler\OddsProperties\obj\Debug\OddsProperties.dll
+E:\Project Current\OddsCompiler\a-SourceCode\OddsCompiler\OddsProperties\obj\Debug\OddsProperties.pdb
